@@ -1,0 +1,61 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "net.wytrem.spigot",
+    "module": "commented-yaml",
+    "version": "1.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "6.3",
+      "buildId": "nzzrr3xqjbbkpc7babwrphwgnu"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "commented-yaml-1.1.jar",
+          "url": "commented-yaml-1.1.jar",
+          "size": 40495,
+          "sha512": "56a9c368da832d8ae6931e5f00fece1d230b485446f3603ca3da18d15940e9c8db6fbfe478f8fdf52ab27c3674e6259ab2df7ec37f6dffd23385db73558fc7ed",
+          "sha256": "a58987456ebe216d03515880bece7ecf0fbf7f7fe52378a16129e7c59bbdeb3f",
+          "sha1": "4a913f9774aa9d0dd7551824409e5e250a77385d",
+          "md5": "a003a1b1736035ca86c1a9ae4b40a4a3"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "commented-yaml-1.1.jar",
+          "url": "commented-yaml-1.1.jar",
+          "size": 40495,
+          "sha512": "56a9c368da832d8ae6931e5f00fece1d230b485446f3603ca3da18d15940e9c8db6fbfe478f8fdf52ab27c3674e6259ab2df7ec37f6dffd23385db73558fc7ed",
+          "sha256": "a58987456ebe216d03515880bece7ecf0fbf7f7fe52378a16129e7c59bbdeb3f",
+          "sha1": "4a913f9774aa9d0dd7551824409e5e250a77385d",
+          "md5": "a003a1b1736035ca86c1a9ae4b40a4a3"
+        }
+      ]
+    }
+  ]
+}
